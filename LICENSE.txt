@@ -1,0 +1,2 @@
+Licensia
+apache 2.0
